@@ -8,7 +8,7 @@
  *
  * @author ASUS
  */
-public class soal1 {
+public class no1 {
     /**
      * @param args the command line arguments
      */
